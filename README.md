@@ -4,7 +4,9 @@
 
 _(Last updated: Nov 2025)_
 
-**Legacy Portfolio Site Link:  [Penn State Portfolio](https://iskyhawk0.github.io/skylerhawkins/)**
+
+
+**Legacy Portfolio Site Link (Check it out!):  [Penn State Portfolio](https://iskyhawk0.github.io/skylerhawkins/)**
 ---
 
 ## Fall '25 - Robotics for AI and Game AI
