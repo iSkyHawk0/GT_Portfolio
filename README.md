@@ -1,2 +1,26 @@
-# GT_Portfolio
-I wanted to log some of my projects from my time at Georgia Tech as a student in the OMSCS program! 
+# Skyler Hawkins – Project Portfolio
+
+**M.S. CS @ Georgia Tech | Focus: AI, Robotics, Game AI**
+
+_(Last updated: Nov 2025)_
+
+---
+## Fall '25 - Robotics for AI and Game AI
+
+## ⭐ Core Projects
+
+
+---
+
+## 🤖 Robotics / SLAM
+
+...
+
+## 🧠 ML / AI
+
+...
+
+## 🎮 Game AI & Simulation
+
+...
+
