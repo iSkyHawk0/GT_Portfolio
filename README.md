@@ -14,7 +14,7 @@ _(Last updated: Nov 2025)_
 
 ###Particle Filter 
 
-[![PF Demo](media/project-name.gif)](longer-video-here)
+[![PF Demo](media/PF_GIF.gif)]
 ---
 
 ## 🎮 Game AI
