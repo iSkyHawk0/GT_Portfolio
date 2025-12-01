@@ -11,6 +11,10 @@ _(Last updated: Nov 2025)_
 
 ## 🤖 Robotics AI 
 
+
+###Particle Filter 
+
+[![PF Demo](media/project-name.gif)](longer-video-here)
 ---
 
 ## 🎮 Game AI
